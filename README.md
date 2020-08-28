@@ -1,8 +1,16 @@
 # Anime Fandom
 
-A new Flutter application. 
+A simple anime Fandom UI. 
 
-## Screenshot
+⭐️ this repo if you like it.
+
+## Getting Started 🚀
+
+- Clone the repo
+- Install the dependicies
+- Run it
+
+## 📸 Screenshot
 
 
 |                                           |                                          |
